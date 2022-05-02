@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi! I'm Rhyloo and if you are here you... you want to see my work, so let's go! Look whatever you want. If you have an idea on which I can collaborate, contact me, rhyloo. [rhyloo](mailto:rhyloot@gmail.com). 
+Hi! I'm Rhyloo and if you are here you... you want to see my work, so let's go! Look whatever you want. If you have an idea on which I can collaborate, contact me, [rhyloo](mailto:rhyloot@gmail.com). 
 
 I'm currently studying Electronics, Robotics, and Mechatronics at the University of Malaga, so my time and soul are sold, but it's not a problem because I have some time to work on my personal projects, as you can see.
 
